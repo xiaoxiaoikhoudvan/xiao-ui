@@ -40,7 +40,7 @@
           <router-link to="/doc/grid">Grid 布局</router-link>
         </li>
          <li>
-          <router-link to="/doc/layout">layout 布局</router-link>
+          <router-link to="/doc/layout">layout 布局容器</router-link>
         </li>
       </ol>
     </aside>
